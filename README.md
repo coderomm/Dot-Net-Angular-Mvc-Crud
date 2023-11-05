@@ -1,1 +1,1 @@
-#In this project you will learn about Dot Net MVC Angular CRUD operations.
+In this project you will learn about Dot Net MVC Angular CRUD operations.
